@@ -1,0 +1,18 @@
+{
+  "name": "esercizio_1",
+  "version": "1.0.0",
+  "description": "esercizio 1 lezione 1",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "    cursor:pointer;"
+  },
+  "author": "Michelle Caruso",
+  "license": "ISC",
+  "dependencies": {
+    "package.json": "^2.0.1"
+  }
+}
